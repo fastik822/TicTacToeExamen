@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jz3XynywSIFnsntrGX+F2DkL2EwktxoLGhka78BXVQVc4f8vtJU97o6XKz+1vgN8S1ROdnjLv3Wo2C+mvRDeHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Downloads\\MyTicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

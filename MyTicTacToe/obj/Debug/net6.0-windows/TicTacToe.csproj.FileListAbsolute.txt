@@ -1,0 +1,16 @@
+C:\Users\Student\Downloads\MyTicTacToe\bin\Debug\net6.0-windows\TicTacToe.exe
+C:\Users\Student\Downloads\MyTicTacToe\bin\Debug\net6.0-windows\TicTacToe.deps.json
+C:\Users\Student\Downloads\MyTicTacToe\bin\Debug\net6.0-windows\TicTacToe.runtimeconfig.json
+C:\Users\Student\Downloads\MyTicTacToe\bin\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\Student\Downloads\MyTicTacToe\bin\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\TicTacToe.Main.resources
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfo.cs
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\refint\TicTacToe.dll
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\TicTacToe.genruntimeconfig.cache
+C:\Users\Student\Downloads\MyTicTacToe\obj\Debug\net6.0-windows\ref\TicTacToe.dll
